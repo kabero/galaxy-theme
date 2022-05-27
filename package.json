@@ -1,6 +1,7 @@
 {
-    "name": "galaxy",
+    "name": "galaxy-theme",
     "displayName": "galaxy",
+    "publisher": "rainwhale",
     "description": "It's galaxy color theme",
     "version": "0.0.1",
     "engines": {
