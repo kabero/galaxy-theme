@@ -74,7 +74,7 @@
 			],
 			"settings": {
 				// "fontStyle": "italic",
-				"foreground": "#748E9A"
+				"foreground": "#545E5A"
 			}
 		},
 		{
@@ -85,7 +85,7 @@
 			],
 			"settings": {
 				// "fontStyle": "italic",
-				"foreground": "#EEFFFF"
+				"foreground": "#BFB8A7"
 			}
 		},
 		{
@@ -158,7 +158,7 @@
 			"settings": {
 				// "fontStyle": "italic",
 				// "foreground": "#89DDFF"
-				"foreground": "#748E9A"
+				"foreground": "#545E5A"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 				// "support.constant",
 				"constant.character",
 				"constant.escape",
-				"variable.parameter",
+				// "variable.parameter",
 				"keyword.other.unit",
 				"keyword.other"
 			],
@@ -775,8 +775,8 @@
 				"string.quoted.docstring.multi.python"
 			],
 			"settings": {
-				// "foreground": "#EEFFFF"
-				"foreground": "#748E9A"
+				// "foreground": "#546E7A"
+				"foreground": "#545E5A"
 			}
 		},
 		{
