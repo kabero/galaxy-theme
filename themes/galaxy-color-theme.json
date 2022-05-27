@@ -9,13 +9,13 @@
 		// "editor.background": "#181415",
 		"editor.background": "#111010",
 		"editor.foreground": "#BFB8A7",
-		"editor.lineHighlightBorder": "#181415",
+		"editor.lineHighlightBorder": "#111010",
 
 		// Editor(Selections)
-		"editorIndentGuide.background": "#181415",
-		"editorIndentGuide.activeBackground": "#181415",
-		"editor.wordHighlightBackground": "#181415",
-		"editor.wordHighlightStrongBackground": "#181415",
+		"editorIndentGuide.background": "#111010",
+		"editorIndentGuide.activeBackground": "#111010",
+		"editor.wordHighlightBackground": "#111010",
+		"editor.wordHighlightStrongBackground": "#111010",
 		// "editor.selectionBackground": "#ff0000", // 選択範囲
 		"editor.findMatchBackground": "#5b4679",
 		"sideBarSectionHeader.background": "#1A1F23",
