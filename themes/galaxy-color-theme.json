@@ -6,28 +6,30 @@
 
 		// Editor
 		// "editor.background": "#060203",
-		"editor.background": "#080405",
+		// "editor.background": "#181415",
+		"editor.background": "#111010",
 		"editor.foreground": "#BFB8A7",
-		"editor.lineHighlightBorder": "#050607",
+		"editor.lineHighlightBorder": "#181415",
 
 		// Editor(Selections)
-		"editorIndentGuide.background": "#050607",
-		"editorIndentGuide.activeBackground": "#050607",
-		"editor.wordHighlightBackground": "#050607",
-		"editor.wordHighlightStrongBackground": "#050607",
+		"editorIndentGuide.background": "#181415",
+		"editorIndentGuide.activeBackground": "#181415",
+		"editor.wordHighlightBackground": "#181415",
+		"editor.wordHighlightStrongBackground": "#181415",
 		// "editor.selectionBackground": "#ff0000", // 選択範囲
 		"editor.findMatchBackground": "#5b4679",
-		"sideBarSectionHeader.background": "#0A0F13",
+		"sideBarSectionHeader.background": "#1A1F23",
 
 		// Terminal
-		"terminal.background": "#1A1219",
-		"panel.background": "#1A1219",
-		"panel.border": "#0A0F13",
-		"panelTitle.activeBorder": "#1A1219",
+		"terminal.background": "#2A1229",
+		// "panel.background": "#1A1219",
+		"panel.background": "#2A1229",
+		"panel.border": "#2A1229",
+		"panelTitle.activeBorder": "#2A1229",
 
 		// Editor Group & Tab
-		"editorGroupHeader.tabsBackground": "#0A0F13",
-		"tab.inactiveBackground": "#0A0F13",
+		"editorGroupHeader.tabsBackground": "#1A1F23",
+		"tab.inactiveBackground": "#1A1F23",
 		"tab.activeForeground": "#8F8877",
 
 		// Title Bar
@@ -38,22 +40,23 @@
 		"button.foreground": "#BFB8A7",
 
 		// Activity Bar
-		"activityBar.background": "#0A0F13",
+		// "activityBar.background": "#1A1F23",
+		"activityBar.background": "#1A1F23",
 		"activityBar.foreground": "#8F8877",
 
 		// Others
-		"focusBorder": "#0A0F13",
-		"statusBar.debuggingBackground": "#0A0F13",
-		"statusBar.noFolderBackground": "#0A0F13",
-		"sideBar.background": "#0A0F13",
+		"focusBorder": "#1A1F23",
+		"statusBar.debuggingBackground": "#1A1F23",
+		"statusBar.noFolderBackground": "#1A1F23",
+		"sideBar.background": "#1A1F23",
 		"input.background": "#050607",
 		"badge.background": "#5b4679",
 		"activityBarBadge.background": "#5b4679",
-		"titleBar.activeBackground": "#0A0F13",
+		"titleBar.activeBackground": "#1A1F23",
 		"menu.background": "#ff0000",
-		"statusBar.background": "#0A0F13",
+		"statusBar.background": "#1A1F23",
 		"statusBar.foreground": "#8F8877",
-		"statusBarItem.activeBackground": "#0A0F13",
+		"statusBarItem.activeBackground": "#1A1F23",
 
 		// Bracket Pair Colorization
 		"editorBracketHighlight.foreground1": "#00a497",
@@ -71,7 +74,7 @@
 			],
 			"settings": {
 				// "fontStyle": "italic",
-				"foreground": "#344A58"
+				"foreground": "#748E9A"
 			}
 		},
 		{
@@ -773,7 +776,7 @@
 			],
 			"settings": {
 				// "foreground": "#EEFFFF"
-				"foreground": "#394E5C"
+				"foreground": "#748E9A"
 			}
 		},
 		{
