@@ -2,8 +2,8 @@
     "name": "galaxy-theme",
     "displayName": "galaxy",
     "publisher": "rainwhale",
-    "description": "Simple color theme flavored by galaxy",
-    "version": "0.0.3",
+    "description": "Simple color theme flavored by the galaxy",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.2.2"
     },
