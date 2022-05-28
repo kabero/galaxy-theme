@@ -1,8 +1,11 @@
 {
 	"name": "galaxy",
 	"colors": {
+		// Basic background
+		// v0.0.8 : #1A1F23
+
 		// Basic
-		"foreground": "#8F8877",
+		"foreground": "#98927F",
 
 		// Editor
 		// "editor.background": "#060203",
@@ -18,7 +21,8 @@
 		"editor.wordHighlightStrongBackground": "#151313",
 		// "editor.selectionBackground": "#ff0000", // 選択範囲
 		"editor.findMatchBackground": "#5b4679",
-		"sideBarSectionHeader.background": "#1A1F23",
+		// "sideBarSectionHeader.background": "#1F242D",
+		"sideBarSectionHeader.background": "#1F242D",
 
 		// Terminal
 		"terminal.background": "#2A1229",
@@ -28,12 +32,12 @@
 		"panelTitle.activeBorder": "#2A1229",
 
 		// Editor Group & Tab
-		"editorGroupHeader.tabsBackground": "#1A1F23",
-		"tab.inactiveBackground": "#1A1F23",
-		"tab.activeForeground": "#8F8877",
+		"editorGroupHeader.tabsBackground": "#1F242D",
+		"tab.inactiveBackground": "#1F242D",
+		"tab.activeForeground": "#98927F",
 
 		// Title Bar
-		"titleBar.activeForeground": "#8F8877",
+		"titleBar.activeForeground": "#98927F",
 
 		// Button
 		"button.background": "#5b4679",
@@ -41,22 +45,22 @@
 
 		// Activity Bar
 		// "activityBar.background": "#1A1F23",
-		"activityBar.background": "#1A1F23",
-		"activityBar.foreground": "#8F8877",
+		"activityBar.background": "#1F242D",
+		"activityBar.foreground": "#98927F",
 
 		// Others
-		"focusBorder": "#1A1F23",
-		"statusBar.debuggingBackground": "#1A1F23",
-		"statusBar.noFolderBackground": "#1A1F23",
-		"sideBar.background": "#1A1F23",
+		"focusBorder": "#1F242D",
+		"statusBar.debuggingBackground": "#1F242D",
+		"statusBar.noFolderBackground": "#1F242D",
+		"sideBar.background": "#1F242D",
 		"input.background": "#050607",
 		"badge.background": "#5b4679",
 		"activityBarBadge.background": "#5b4679",
-		"titleBar.activeBackground": "#1A1F23",
+		"titleBar.activeBackground": "#1F242D",
 		"menu.background": "#ff0000",
-		"statusBar.background": "#1A1F23",
-		"statusBar.foreground": "#8F8877",
-		"statusBarItem.activeBackground": "#1A1F23",
+		"statusBar.background": "#1F242D",
+		"statusBar.foreground": "#98927F",
+		"statusBarItem.activeBackground": "#1F242D",
 
 		// Bracket Pair Colorization
 		"editorBracketHighlight.foreground1": "#00a497",
