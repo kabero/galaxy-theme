@@ -7,15 +7,15 @@
 		// Editor
 		// "editor.background": "#060203",
 		// "editor.background": "#181415",
-		"editor.background": "#111010",
-		"editor.foreground": "#BFB8A7",
-		"editor.lineHighlightBorder": "#111010",
+		"editor.background": "#151313",
+		"editor.foreground": "#C3BCAB",
+		"editor.lineHighlightBorder": "#151313",
 
 		// Editor(Selections)
-		"editorIndentGuide.background": "#111010",
-		"editorIndentGuide.activeBackground": "#111010",
-		"editor.wordHighlightBackground": "#111010",
-		"editor.wordHighlightStrongBackground": "#111010",
+		"editorIndentGuide.background": "#151313",
+		"editorIndentGuide.activeBackground": "#151313",
+		"editor.wordHighlightBackground": "#151313",
+		"editor.wordHighlightStrongBackground": "#151313",
 		// "editor.selectionBackground": "#ff0000", // 選択範囲
 		"editor.findMatchBackground": "#5b4679",
 		"sideBarSectionHeader.background": "#1A1F23",
@@ -136,28 +136,6 @@
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#FF5370"
-			}
-		},
-		{
-			"name": "Operator, Misc",
-			"scope": [
-				"keyword.control",
-				"constant.other.color",
-				"punctuation",
-				"meta.tag",
-				"punctuation.definition.tag",
-				"punctuation.separator.inheritance.php",
-				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded",
-				"keyword.other.template",
-				"keyword.other.substitution"
-			],
-			"settings": {
-				// "fontStyle": "italic",
-				// "foreground": "#89DDFF"
-				"foreground": "#545E5A"
 			}
 		},
 		{
@@ -802,7 +780,7 @@
 
 			],
 			"settings": {
-				"foreground": "#BFB8A7"
+				"foreground": "#C3BCAB"
 			}
 		},
 		{
@@ -871,8 +849,27 @@
 				"string.quoted.docstring.multi.python",
 			],
 			"settings": {
-				// "foreground": "#546E7A"
-				"foreground": "#545E5A"
+				"foreground": "#5F6763"
+			}
+		},
+		{
+			"name": "dark gray(punctuation)",
+			"scope": [
+				"keyword.control",
+				"constant.other.color",
+				"punctuation",
+				"meta.tag",
+				"punctuation.definition.tag",
+				"punctuation.separator.inheritance.php",
+				"punctuation.definition.tag.html",
+				"punctuation.definition.tag.begin.html",
+				"punctuation.definition.tag.end.html",
+				"punctuation.section.embedded",
+				"keyword.other.template",
+				"keyword.other.substitution"
+			],
+			"settings": {
+				"foreground": "#808C89"
 			}
 		},
 	]
