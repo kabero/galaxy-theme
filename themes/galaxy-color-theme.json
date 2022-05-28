@@ -132,7 +132,6 @@
 			"name": "control keyword",
 			"scope": [
 				"keyword.control",
-				"keyword.control.flow.python",
 			],
 			"settings": {
 				"fontStyle": "",
@@ -252,7 +251,8 @@
 				"entity.other.inherited-class",
 				"markup.heading",
 				"markup.inserted.git_gutter",
-				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+				"constant.other.placeholder.c"
 			],
 			"settings": {
 				// "fontStyle": "italic",
@@ -758,12 +758,20 @@
 		{
 			"name": "red",
 			"scope": [
+				"keyword.control",
 				"keyword.control.import.python",
 				"keyword.control.flow.python",
 				"storage.type.function.python",
 				"storage.type.class.python",
 				"keyword.control.rust",
 				"keyword.other.fn.rust",
+				"punctuation.definition.directive.c",
+				"punctuation.definition.directive.cpp",
+				"keyword.other.using.directive.cpp",
+				"storage.type.namespace.directive.cpp",
+				"keyword.other.rust",
+				"storage.type.rust",
+
 			],
 			"settings": {
 				"foreground": "#CF5370"
@@ -797,21 +805,28 @@
 				"meta.member.access.python",
 				"variable.language",
 				"variable.parameter.function.language.python",
+				"entity.name.namespace.cpp",
+				"entity.name.scope-resolution.cpp"
+
 			],
 			"settings": {
-				// "foreground": "#EEFFFF"
-				// "foreground": "#CFC8B7"
-				"foreground": "#CFC8B7"
+				"foreground": "#BFB8A7"
 			}
 		},
 		{
 			"name": "white_green",
 			"scope": [
 				"support.type",
-				"entity.name.type.numeric.rust"
+				"entity.name.type.numeric.rust",
+				"storage.type.built-in.primitive.c",
+				"storage.type.built-in.primitive.cpp",
+				"entity.name.type.rust",
+				"entity.name.type.struct.rust",
+				"entity.name.type.primitive.rust",
+				"entity.name.type.lifetime.rust",
+				"punctuation.definition.lifetime.rust"
 			],
 			"settings": {
-				// "foreground": "#EEFFFF"
 				"foreground": "#598B99"
 			}
 		},
@@ -825,12 +840,36 @@
 			}
 		},
 		{
-			"name": "Dark_green",
+			"name": "yellow",
+			"scope": [
+				"constant.other.placeholder.c",
+				"constant.character.escape.c",
+				"punctuation.definition.interpolation.rust",
+				"constant.character.escape.backslash.rust",
+				"constant.character.escape.rust"
+
+			],
+			"settings": {
+				"foreground": "#f8b862"
+			}
+		},
+		{
+			"name": "dark_green",
 			"scope": [
 			],
 			"settings": {
 				"foreground": "#B2CCD6",
 			}
-		}
+		},
+		{
+			"name": "light green",
+			"scope": [
+				"entity.name.type.lifetime.rust",
+				"punctuation.definition.lifetime.rust"
+			],
+			"settings": {
+				"foreground": "#87AC82"
+			}
+		},
 	]
 }
