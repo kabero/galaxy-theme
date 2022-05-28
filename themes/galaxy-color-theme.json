@@ -771,6 +771,8 @@
 				"storage.type.namespace.directive.cpp",
 				"keyword.other.rust",
 				"storage.type.rust",
+				"keyword.other.import.dart",
+				"keyword.declaration.dart",
 
 			],
 			"settings": {
@@ -781,7 +783,7 @@
 			"name": "blue",
 			"scope": [
 				"meta.function-call.generic.python",
-				"entity.name.type.class.python"
+				"entity.name.type.class.python",
 			],
 			"settings": {
 				// "foreground": "#EEFFFF"
@@ -814,7 +816,9 @@
 				"entity.name.type.struct.rust",
 				"entity.name.type.primitive.rust",
 				"entity.name.type.lifetime.rust",
-				"punctuation.definition.lifetime.rust"
+				"punctuation.definition.lifetime.rust",
+				"storage.type.primitive.dart",
+				"support.class.dart"
 			],
 			"settings": {
 				"foreground": "#598B99"
@@ -854,7 +858,8 @@
 			"name": "light green",
 			"scope": [
 				"entity.name.type.lifetime.rust",
-				"punctuation.definition.lifetime.rust"
+				"punctuation.definition.lifetime.rust",
+				"storage.type.annotation.dart"
 			],
 			"settings": {
 				"foreground": "#87AC82"
