@@ -3,7 +3,7 @@ Galaxy-theme is a dark color theme with no waste and high readability.
 
 ## Screenshots
 
-![python](file://../img/python_example.png)
+![python](https://raw.githubusercontent.com/kabero/galaxy-theme/main/img/python_example.png)
 
 ## Supported languages
 
