@@ -1,9 +1,10 @@
-Hi, there✋
-Galaxy-theme is a dark color theme with no waste and high readability
+Hi, there✋<br>
+Galaxy-theme is a dark color theme with no waste and high readability.
 
-## Support
+## Supported languages
 - C/C++
 - Python
 - Rust
+- Dart
 
-*Hope you enjoy*
+**Hope you enjoy!**
