@@ -3,7 +3,8 @@
     "displayName": "galaxy",
     "publisher": "rainwhale",
     "description": "Simple color theme flavored by the galaxy",
-    "version": "0.0.5",
+    "icon": "img/galaxy-vscode-icon.png",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.2.2"
     },

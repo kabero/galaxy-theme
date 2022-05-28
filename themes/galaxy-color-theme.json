@@ -778,16 +778,6 @@
 			}
 		},
 		{
-			"name": "docstring",
-			"scope": [
-				"string.quoted.docstring.multi.python"
-			],
-			"settings": {
-				// "foreground": "#546E7A"
-				"foreground": "#545E5A"
-			}
-		},
-		{
 			"name": "blue",
 			"scope": [
 				"meta.function-call.generic.python",
@@ -846,8 +836,7 @@
 				"constant.character.escape.c",
 				"punctuation.definition.interpolation.rust",
 				"constant.character.escape.backslash.rust",
-				"constant.character.escape.rust"
-
+				"constant.character.escape.rust",
 			],
 			"settings": {
 				"foreground": "#f8b862"
@@ -869,6 +858,16 @@
 			],
 			"settings": {
 				"foreground": "#87AC82"
+			}
+		},
+		{
+			"name": "dark_gray(comment)",
+			"scope": [
+				"string.quoted.docstring.multi.python",
+			],
+			"settings": {
+				// "foreground": "#546E7A"
+				"foreground": "#545E5A"
 			}
 		},
 	]
