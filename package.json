@@ -1,10 +1,10 @@
 {
     "name": "galaxy-theme",
-    "displayName": "Galaxy",
+    "displayName": "Galaxy Theme",
     "publisher": "rainwhale",
     "description": "Simple color theme flavored by galaxy",
     "icon": "img/galaxy-vscode-icon.png",
-    "version": "0.0.7",
+    "version": "0.0.9",
     "engines": {
         "vscode": "^1.2.2"
     },
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "galaxy",
+                "label": "Galaxy Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/galaxy-color-theme.json"
             }
