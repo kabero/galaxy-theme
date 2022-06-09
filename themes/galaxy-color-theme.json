@@ -756,7 +756,8 @@
 				"keyword.other.import.dart",
 				"keyword.declaration.dart",
 				"keyword.control.directive.include.c",
-				"storage.type.function.async.python"
+				"storage.type.function.async.python",
+
 
 			],
 			"settings": {
