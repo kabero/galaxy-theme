@@ -757,8 +757,7 @@
 				"keyword.declaration.dart",
 				"keyword.control.directive.include.c",
 				"storage.type.function.async.python",
-
-
+				"keyword.control.catch-exception.dart"
 			],
 			"settings": {
 				"foreground": "#CF5370"
