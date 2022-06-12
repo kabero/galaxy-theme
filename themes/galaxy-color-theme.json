@@ -800,6 +800,7 @@
 				"punctuation.definition.lifetime.rust",
 				"storage.type.primitive.dart",
 				"support.class.dart",
+				"entity.name.type.ts"
 			],
 			"settings": {
 				"foreground": "#598B99"
