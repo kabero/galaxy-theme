@@ -13,3 +13,4 @@ Galaxy-theme is a dark color theme with no waste and high readability.
 - Dart
 - JavaScript
 - TypeScript
+- JSON
