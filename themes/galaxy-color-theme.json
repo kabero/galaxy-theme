@@ -10,15 +10,17 @@
 		// Editor
 		// "editor.background": "#060203",
 		// "editor.background": "#181415",
-		"editor.background": "#151313",
+		// "editor.background": "#151313",
+		"editor.background": "#302C2C",
 		"editor.foreground": "#C3BCAB",
-		"editor.lineHighlightBorder": "#151313",
+		"editor.lineHighlightBorder": "#00000000",
 
 		// Editor(Selections)
-		"editorIndentGuide.background": "#151313",
-		"editorIndentGuide.activeBackground": "#151313",
-		"editor.wordHighlightBackground": "#151313",
-		"editor.wordHighlightStrongBackground": "#151313",
+		// "editorIndentGuide.background": "#151313",
+		"editorIndentGuide.background": "#00000000",
+		"editorIndentGuide.activeBackground": "#00000000",
+		"editor.wordHighlightBackground": "#00000000",
+		"editor.wordHighlightStrongBackground": "#00000000",
 		// "editor.selectionBackground": "#ff0000", // 選択範囲
 		"editor.findMatchBackground": "#5b4679",
 		// "sideBarSectionHeader.background": "#1F242D",
@@ -120,16 +122,6 @@
 			],
 			"settings": {
 				"foreground": "#C792EA"
-			}
-		},
-		{
-			"name": "Keyword, Storage",
-			"scope": [
-				"keyword",
-				"storage.modifier"
-			],
-			"settings": {
-				"foreground": "#87AC82"
 			}
 		},
 		{
@@ -757,7 +749,10 @@
 				"keyword.declaration.dart",
 				"keyword.control.directive.include.c",
 				"storage.type.function.async.python",
-				"keyword.control.catch-exception.dart"
+				"keyword.control.catch-exception.dart",
+				"storage.modifier.js",
+				"storage.modifier.ts"
+
 			],
 			"settings": {
 				"foreground": "#CF5370"
@@ -777,13 +772,15 @@
 		{
 			"name": "white",
 			"scope": [
+				"meta.block variable.other",
 				"meta.function-call.arguments.python",
 				"meta.member.access.python",
 				"variable.language",
 				"variable.parameter.function.language.python",
 				"entity.name.namespace.cpp",
-				"entity.name.scope-resolution.cpp"
-
+				"entity.name.scope-resolution.cpp",
+				"constant.language.import-export-all.ts",
+				"meta.jsx.children.js"
 			],
 			"settings": {
 				"foreground": "#C3BCAB"
@@ -802,7 +799,7 @@
 				"entity.name.type.lifetime.rust",
 				"punctuation.definition.lifetime.rust",
 				"storage.type.primitive.dart",
-				"support.class.dart"
+				"support.class.dart",
 			],
 			"settings": {
 				"foreground": "#598B99"
@@ -841,9 +838,12 @@
 		{
 			"name": "light green",
 			"scope": [
+				"keyword",
+				"storage.modifier",
 				"entity.name.type.lifetime.rust",
 				"punctuation.definition.lifetime.rust",
-				"storage.type.annotation.dart"
+				"storage.type.annotation.dart",
+				"storage.type.function.arrow.ts",
 			],
 			"settings": {
 				"foreground": "#87AC82"
