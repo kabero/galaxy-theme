@@ -742,7 +742,6 @@
 				"keyword.control.catch-exception.dart",
 				"storage.modifier.js",
 				"storage.modifier.ts"
-
 			],
 			"settings": {
 				"foreground": "#CF5370"
@@ -752,10 +751,8 @@
 			"name": "blue",
 			"scope": [
 				"meta.function-call.generic.python",
-				"entity.name.type.class.python",
 			],
 			"settings": {
-				// "foreground": "#EEFFFF"
 				"foreground": "#8BA0F3"
 			}
 		},
@@ -780,6 +777,7 @@
 			"name": "white_green",
 			"scope": [
 				"support.type",
+				"entity.name",
 				"entity.name.type.numeric.rust",
 				"storage.type.built-in.primitive.c",
 				"storage.type.built-in.primitive.cpp",
@@ -790,10 +788,12 @@
 				"punctuation.definition.lifetime.rust",
 				"storage.type.primitive.dart",
 				"support.class.dart",
-				"entity.name.type.ts"
+				"entity.name.type.ts",
+				"entity.name.type.class.python",
+				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#598B99"
+				"foreground": "#69BFAF"
 			}
 		},
 		{
