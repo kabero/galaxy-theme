@@ -116,15 +116,6 @@
 			}
 		},
 		{
-			"name": "Storage type",
-			"scope": [
-				"storage.type",
-			],
-			"settings": {
-				"foreground": "#C792EA"
-			}
-		},
-		{
 			"name": "control keyword",
 			"scope": [
 				"keyword.control",
@@ -199,7 +190,7 @@
 			}
 		},
 		{
-			"name": "Number, Constant",
+			"name": "Pink (Number, Constant)",
 			"scope": [
 				"constant.numeric",
 				"constant.language",
@@ -211,8 +202,6 @@
 				// "keyword.other"
 			],
 			"settings": {
-				// "foreground": "#B53C53"
-				// "fontStyle": "italic",
 				"foreground": "#AA7ED2"
 			}
 		},
@@ -733,6 +722,7 @@
 			"name": "red",
 			"scope": [
 				"keyword.control",
+				"storage.type",
 				"keyword.control.import.python",
 				"keyword.control.flow.python",
 				"storage.type.function.python",
