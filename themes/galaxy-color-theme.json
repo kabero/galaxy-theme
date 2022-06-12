@@ -456,7 +456,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#87AC82"
 			}
 		},
 		{
@@ -465,7 +465,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#CF5370"
 			}
 		},
 		{
@@ -474,7 +474,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#598B99"
 			}
 		},
 		{
@@ -803,15 +803,6 @@
 			],
 			"settings": {
 				"foreground": "#598B99"
-			}
-		},
-		{
-			"name": "Orange",
-			"scope": [
-				// "variable.parameter.function.language.python",
-			],
-			"settings": {
-				"foreground": "#FFA953",
 			}
 		},
 		{
