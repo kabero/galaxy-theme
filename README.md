@@ -11,5 +11,5 @@ Galaxy-theme is a dark color theme with no waste and high readability.
 - Python
 - Rust
 - Dart
-
-**Hope you enjoy!**
+- JavaScript
+- TypeScript
