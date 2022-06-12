@@ -4,7 +4,7 @@
     "publisher": "rainwhale",
     "description": "Simple galaxy-themed color scheme",
     "icon": "img/galaxy-vscode-icon.png",
-    "version": "0.0.18",
+    "version": "0.0.19",
     "engines": {
         "vscode": "^1.2.2"
     },

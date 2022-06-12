@@ -148,7 +148,6 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				// "foreground": "#82AAFF"
 				"foreground": "#8BA0F3"
 			}
 		},
@@ -793,7 +792,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#69BFAF"
+				"foreground": "#39AF8F"
 			}
 		},
 		{
