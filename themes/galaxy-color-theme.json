@@ -59,17 +59,42 @@
 		"badge.background": "#5b4679",
 		"activityBarBadge.background": "#5b4679",
 		"titleBar.activeBackground": "#1F242D",
-		"menu.background": "#ff0000",
+		// "menu.background": "#ff0000",
 		"statusBar.background": "#1F242D",
 		"statusBar.foreground": "#98927F",
 		"statusBarItem.activeBackground": "#1F242D",
 
 		// Bracket Pair Colorization
-		"editorBracketHighlight.foreground1": "#00a497",
-		"editorBracketHighlight.foreground2": "#915c8b",
-		"editorBracketHighlight.foreground3": "#c89932",
-		"editorBracketHighlight.foreground4": "#426579",
-		"editorBracketHighlight.foreground5": "#ada250"
+		// Colorful Ver.
+		// "editorBracketHighlight.foreground1": "#ada250",
+		// "editorBracketHighlight.foreground2": "#426579",
+		// "editorBracketHighlight.foreground3": "#c89932",
+		// "editorBracketHighlight.foreground4": "#915c8b",
+		// "editorBracketHighlight.foreground5": "#00a497",
+
+		// Simple Ver.
+		// "editorBracketHighlight.foreground1": "#967C95",
+		// "editorBracketHighlight.foreground2": "#964F93",
+		// "editorBracketHighlight.foreground3": "#961391",
+		// "editorBracketHighlight.foreground4": "#967C95",
+		// "editorBracketHighlight.foreground5": "#964F93",
+		// "editorBracketHighlight.foreground6": "#961391",
+
+		// Tree Ver.
+		// "editorBracketHighlight.foreground1": "#963E1B",
+		// "editorBracketHighlight.foreground2": "#965940",
+		// "editorBracketHighlight.foreground3": "#967E75",
+		// "editorBracketHighlight.foreground4": "#963E1B",
+		// "editorBracketHighlight.foreground5": "#965940",
+		// "editorBracketHighlight.foreground6": "#967E75",
+
+		"editorBracketHighlight.foreground1": "#E36633",
+		"editorBracketHighlight.foreground2": "#E38E6C",
+		"editorBracketHighlight.foreground3": "#E3B7A5",
+		"editorBracketHighlight.foreground4": "#963E1B",
+		"editorBracketHighlight.foreground5": "#965940",
+		"editorBracketHighlight.foreground6": "#967E75",
+
 	},
 	"tokenColors": [
 		{
@@ -743,7 +768,7 @@
 				"storage.modifier.ts"
 			],
 			"settings": {
-				"foreground": "#CF5370"
+				"foreground": "#E65C7C"
 			}
 		},
 		{
